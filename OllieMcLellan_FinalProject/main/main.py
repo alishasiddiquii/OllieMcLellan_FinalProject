@@ -1,3 +1,11 @@
+# File Name : OllieMcLellan_FinalProject
+# Student Name: Leah Radcliffe, Alisha Siddiqui, Daquan Daniels
+# email:  radclilr@mail.uc.edu, siddiqas@mail.uc.edu, danialdu@mail.uc.edu
+# Assignment Number: Final Project
+# Due Date: 5/1/25
+# Course #/Section:  IS401001
+# Semester/Year:  Spring 2025
+# Brief Description of the assignment: 
 from cryptography.fernet import Fernet
 import json
 import os
