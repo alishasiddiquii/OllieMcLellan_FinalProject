@@ -5,7 +5,8 @@
 # Due Date: 5/1/25
 # Course #/Section:  IS401001
 # Semester/Year:  Spring 2025
-# Brief Description of the assignment: 
+# Brief Description of the assignment: decrypts a hidden team location and a movie title using data from files, then displays a team photo.
+
 from cryptography.fernet import Fernet
 import json
 import os
